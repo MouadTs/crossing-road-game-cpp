@@ -1,13 +1,5 @@
 # Crossing Road Game
 
-<p align="center">
-
-## Centered Heading
-
-This paragraph is centered.
-
-</p>
-
 
 
 
