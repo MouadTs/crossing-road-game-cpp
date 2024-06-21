@@ -1,4 +1,4 @@
-# Crossing Road Game
+# <span style="color: blue">Crossing Road Game</span>
 !["Crossing road images"](Crossing_road_game3.jpeg) 
 A classic crossing road game implemented using C++ and object-oriented programming (OOP) principles with the assistance of Qt Creator and its library.
 
