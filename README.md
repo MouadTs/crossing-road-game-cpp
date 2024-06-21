@@ -1,5 +1,6 @@
 # Crossing Road Game
-<span style="color: blue;">This text will be blue</span>
+<font color="blue">This text will be blue</font>
+
 
 
 
