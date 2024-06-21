@@ -49,5 +49,6 @@ To run the game locally, follow these steps:
 ## Contributors
 
 - **Mouad ismaili** - [github.com/MouadTs](https://github.com/MouadTs)
+- Linkedin : https://www.linkedin.com/in/mouadismaili/
 
 Feel free to explore and contribute to the project on GitHub!
