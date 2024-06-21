@@ -3,7 +3,7 @@ A classic crossing road game implemented using C++ and object-oriented programmi
 
 Overview
 This project aims to recreate the timeless crossing road game where the player navigates a character across a busy road while avoiding obstacles. The game utilizes C++ for its core logic and Qt Creator for graphical interface design, leveraging Qt's library for enhanced functionality and visual appeal.
-![alt text](Crossing road game1.jpeg)
+![alt text](Crossing road game1.jpeg) img 1
 Features
 Player-controlled character movement.
 Dynamic obstacle generation and movement.
