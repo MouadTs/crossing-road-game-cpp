@@ -1,5 +1,13 @@
 # Crossing Road Game
-<font color="blue">This text will be blue</font>
+
+<p align="center">
+
+## Centered Heading
+
+This paragraph is centered.
+
+</p>
+
 
 
 
@@ -29,5 +37,5 @@ Score points by successfully reaching the other side of the road.
 The game ends when the player collides with an obstacle.
 
 !["Crossing road images"](Crossing_road_game4.jpeg) 
-Contributors
+# Contributors:
 Mouad ismaili   github.com/MouadTs
